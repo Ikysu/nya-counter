@@ -3,4 +3,4 @@
 <img src="https://nya-counter.ikysu.workers.dev/ikysu" />
 
 ### Use:
-> https://counter.iky.su/{USER}
+> https://counter.iky.su/{USER}.image
