@@ -4,3 +4,7 @@
 
 ### Use:
 > https://counter.iky.su/{USER}.image
+
+#### Min length:
+> ?default=[int]
+> https://counter.iky.su/Ikysu.image?default=7
