@@ -8,4 +8,4 @@
 #### Min length:
 > ?default=[int]
 
-> https://counter.iky.su/Ikysu.image?default=7
+> https://counter.iky.su/MDN.image?default=7
